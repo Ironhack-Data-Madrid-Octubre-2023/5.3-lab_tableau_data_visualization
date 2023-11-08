@@ -1,0 +1,8 @@
+Dashboard 1
+https://public.tableau.com/app/profile/david.arroyo1115/viz/5_3-lab_tableau_data_visualization_16994584216430/Dashboard1?publish=yes
+
+Dashboard 2
+https://public.tableau.com/app/profile/david.arroyo1115/viz/5_3-lab_tableau_data_visualization_2/Dashboard2?publish=yes
+
+Bonus
+https://public.tableau.com/app/profile/david.arroyo1115/viz/Bonus_tableau_16994599037090/Dashboard1?publish=yes
