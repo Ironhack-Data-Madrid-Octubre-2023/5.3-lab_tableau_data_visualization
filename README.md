@@ -1,7 +1,7 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
 # Lab | Data Visualization with Tableau
-
+,..
 ## Introduction
 
 In this lab, we will practice creating visualizations using the many types of charts and graphs that come with Tableau.
