@@ -104,3 +104,5 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 - [Color Palettes and Effects](https://onlinehelp.tableau.com/current/pro/desktop/en-us/viewparts_marks_markproperties_color.htm)
 
 - [Tableau Training Videos](https://www.tableau.com/learn/training)
+
+descarga
