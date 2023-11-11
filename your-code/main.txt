@@ -1,0 +1,9 @@
+https://public.tableau.com/app/profile/david.ledo/viz/5_3-lab_tableau_data_visualization1/Sheet1?publish=yes
+https://public.tableau.com/app/profile/david.ledo/viz/5_3-lab_tableau_data_visualization2/Sheet2?publish=yes
+https://public.tableau.com/app/profile/david.ledo/viz/5_3-lab_tableau_data_visualization3/Sheet3?publish=yes
+https://public.tableau.com/app/profile/david.ledo/viz/5_3-lab_tableau_data_visualization4/Sheet4?publish=yes
+https://public.tableau.com/app/profile/david.ledo/viz/5_3-lab_tableau_data_visualization5/Sheet5?publish=yes
+https://public.tableau.com/app/profile/david.ledo/viz/5_3-lab_tableau_data_visualization6/Sheet6?publish=yes
+https://public.tableau.com/app/profile/david.ledo/viz/5_3-lab_tableau_data_visualization7/Sheet7?publish=yes
+https://public.tableau.com/app/profile/david.ledo/viz/5_3-lab_tableau_data_visualization8/Sheet8?publish=yes
+https://public.tableau.com/app/profile/david.ledo/viz/5_3-lab_tableau_data_visualization9/NFLTeamPerformanceDashboard?publish=yes
