@@ -16,3 +16,9 @@
 10. https://public.tableau.com/app/profile/abel.nu.ez.perez/viz/10_16997304800130/10?publish=yes
 
 11. https://public.tableau.com/app/profile/abel.nu.ez.perez/viz/NFLTeamPerformanceDashboard_16997300414870/Dashboard1?publish=yes
+
+BONUS
+
+GDP: https://public.tableau.com/app/profile/abel.nu.ez.perez/viz/BonuschallengeGDP/Sheet1?publish=yes
+
+Density by Country: https://public.tableau.com/app/profile/abel.nu.ez.perez/viz/BonuschallengeDensitybyCountry/Sheet2?publish=yes
